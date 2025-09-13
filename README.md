@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm **Vijay Sharma**, Senior Flutter Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **India**.  
-I have <b>6+ years</b> of experience building cross-platform apps, working with Flutter, backend services, Firebase, and API integrations.  <a href="https://vijaysharma.tech/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a> </p> 
+I have <b>6+ years</b> of experience building cross-platform apps, working with Flutter, backend services, Firebase, and API integrations.</p> 
+</br><a href="https://vijaysharma.tech/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a> 
 
 ---
 
